@@ -9,3 +9,14 @@ C:\Users\kevin\source\repos\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.D
 C:\Users\kevin\source\repos\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\refint\Ecommerce.DTO.dll
 C:\Users\kevin\source\repos\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.pdb
 C:\Users\kevin\source\repos\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\ref\Ecommerce.DTO.dll
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.deps.json
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.dll
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.pdb
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.AssemblyInfoInputs.cache
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.AssemblyInfo.cs
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.csproj.CoreCompileInputs.cache
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.dll
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.DTO\obj\Debug\net8.0\refint\Ecommerce.DTO.dll
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.pdb
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.DTO\obj\Debug\net8.0\ref\Ecommerce.DTO.dll

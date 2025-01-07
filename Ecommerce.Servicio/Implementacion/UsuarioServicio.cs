@@ -124,6 +124,7 @@ namespace Ecommerce.Servicio.Implementacion
                     string.Concat(p.NombreCompleto.ToLower(), p.Correo.ToLower()).Contains(buscar.ToLower())
                 );
 
+
                 List<UsuarioDTO> lista = _mapper.Map<List<UsuarioDTO>>(await consulta.ToListAsync());
                 return lista;
             }
@@ -140,7 +141,7 @@ namespace Ecommerce.Servicio.Implementacion
                 var consulta = _modeloRepositorio.Consultar(p =>p.IdUsuario == id);
                 var fromDbModelo = await consulta.FirstOrDefaultAsync();   
 
-                if(fromDbModelo == null)
+                if(fromDbModelo != null)
                     return _mapper.Map<UsuarioDTO>(fromDbModelo);
                 else 
                     throw new TaskCanceledException("No se encontraron coincidencias");

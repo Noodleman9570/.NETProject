@@ -13,3 +13,18 @@ C:\Users\kevin\source\repos\Ecommerce\Ecommerce.Repositorio\bin\Debug\net8.0\Eco
 C:\Users\kevin\source\repos\Ecommerce\Ecommerce.Repositorio\bin\Debug\net8.0\Ecommerce.Modelo.pdb
 C:\Users\kevin\source\repos\Ecommerce\Ecommerce.Repositorio\obj\Debug\net8.0\Ecommerce.Repositorio.csproj.AssemblyReference.cache
 C:\Users\kevin\source\repos\Ecommerce\Ecommerce.Repositorio\obj\Debug\net8.0\Ecommerc.A77D9652.Up2Date
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.Repositorio\bin\Debug\net8.0\Ecommerce.Repositorio.deps.json
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.Repositorio\bin\Debug\net8.0\Ecommerce.Repositorio.dll
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.Repositorio\bin\Debug\net8.0\Ecommerce.Repositorio.pdb
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.Repositorio\bin\Debug\net8.0\Ecommerce.Modelo.dll
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.Repositorio\bin\Debug\net8.0\Ecommerce.Modelo.pdb
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.Repositorio\obj\Debug\net8.0\Ecommerce.Repositorio.csproj.AssemblyReference.cache
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.Repositorio\obj\Debug\net8.0\Ecommerce.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.Repositorio\obj\Debug\net8.0\Ecommerce.Repositorio.AssemblyInfoInputs.cache
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.Repositorio\obj\Debug\net8.0\Ecommerce.Repositorio.AssemblyInfo.cs
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.Repositorio\obj\Debug\net8.0\Ecommerce.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.Repositorio\obj\Debug\net8.0\Ecommerc.A77D9652.Up2Date
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.Repositorio\obj\Debug\net8.0\Ecommerce.Repositorio.dll
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.Repositorio\obj\Debug\net8.0\refint\Ecommerce.Repositorio.dll
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.Repositorio\obj\Debug\net8.0\Ecommerce.Repositorio.pdb
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.Repositorio\obj\Debug\net8.0\ref\Ecommerce.Repositorio.dll

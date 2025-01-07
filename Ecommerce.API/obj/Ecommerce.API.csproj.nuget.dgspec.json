@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.API\\Ecommerce.API.csproj": {}
+    "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.API\\Ecommerce.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.API\\Ecommerce.API.csproj": {
+    "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.API\\Ecommerce.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.API\\Ecommerce.API.csproj",
+        "projectUniqueName": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.API\\Ecommerce.API.csproj",
         "projectName": "Ecommerce.API",
-        "projectPath": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.API\\Ecommerce.API.csproj",
-        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.API\\obj\\",
+        "projectPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.API\\Ecommerce.API.csproj",
+        "packagesPath": "C:\\Users\\BS00011124\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BS00011124\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj": {
-                "projectPath": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj"
+              "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj": {
+                "projectPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj"
               }
             }
           }
@@ -55,6 +55,16 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
@@ -83,20 +93,20 @@
         }
       }
     },
-    "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
+    "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.DTO\\Ecommerce.DTO.csproj",
         "projectName": "Ecommerce.DTO",
-        "projectPath": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj",
-        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.DTO\\obj\\",
+        "projectPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.DTO\\Ecommerce.DTO.csproj",
+        "packagesPath": "C:\\Users\\BS00011124\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BS00011124\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -149,20 +159,20 @@
         }
       }
     },
-    "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Model\\Ecommerce.Modelo.csproj": {
+    "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Model\\Ecommerce.Modelo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Model\\Ecommerce.Modelo.csproj",
+        "projectUniqueName": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Model\\Ecommerce.Modelo.csproj",
         "projectName": "Ecommerce.Modelo",
-        "projectPath": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Model\\Ecommerce.Modelo.csproj",
-        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Model\\obj\\",
+        "projectPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Model\\Ecommerce.Modelo.csproj",
+        "packagesPath": "C:\\Users\\BS00011124\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BS00011124\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -227,20 +237,20 @@
         }
       }
     },
-    "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj": {
+    "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj",
+        "projectUniqueName": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj",
         "projectName": "Ecommerce.Repositorio",
-        "projectPath": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj",
-        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Repositorio\\obj\\",
+        "projectPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj",
+        "packagesPath": "C:\\Users\\BS00011124\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Repositorio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BS00011124\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -256,8 +266,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Model\\Ecommerce.Modelo.csproj": {
-                "projectPath": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Model\\Ecommerce.Modelo.csproj"
+              "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Model\\Ecommerce.Modelo.csproj": {
+                "projectPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Model\\Ecommerce.Modelo.csproj"
               }
             }
           }
@@ -297,20 +307,20 @@
         }
       }
     },
-    "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj": {
+    "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj",
+        "projectUniqueName": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj",
         "projectName": "Ecommerce.Servicio",
-        "projectPath": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj",
-        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Servicio\\obj\\",
+        "projectPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj",
+        "packagesPath": "C:\\Users\\BS00011124\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Servicio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BS00011124\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -326,17 +336,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
-                "projectPath": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj"
+              "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
+                "projectPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.DTO\\Ecommerce.DTO.csproj"
               },
-              "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Model\\Ecommerce.Modelo.csproj": {
-                "projectPath": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Model\\Ecommerce.Modelo.csproj"
+              "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Model\\Ecommerce.Modelo.csproj": {
+                "projectPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Model\\Ecommerce.Modelo.csproj"
               },
-              "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj": {
-                "projectPath": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj"
+              "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj": {
+                "projectPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj"
               },
-              "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj": {
-                "projectPath": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj"
+              "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj": {
+                "projectPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj"
               }
             }
           }
@@ -376,20 +386,20 @@
         }
       }
     },
-    "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj": {
+    "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj",
+        "projectUniqueName": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj",
         "projectName": "Ecommerce.Utilidades",
-        "projectPath": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj",
-        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Utilidades\\obj\\",
+        "projectPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\BS00011124\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BS00011124\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -405,11 +415,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
-                "projectPath": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj"
+              "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
+                "projectPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.DTO\\Ecommerce.DTO.csproj"
               },
-              "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Model\\Ecommerce.Modelo.csproj": {
-                "projectPath": "C:\\Users\\kevin\\source\\repos\\Ecommerce\\Ecommerce.Model\\Ecommerce.Modelo.csproj"
+              "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Model\\Ecommerce.Modelo.csproj": {
+                "projectPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Model\\Ecommerce.Modelo.csproj"
               }
             }
           }
