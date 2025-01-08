@@ -41,3 +41,18 @@ C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Model\obj\Debug\net8
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Modelo.pdb
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Modelo.genruntimeconfig.cache
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\ref\Ecommerce.Modelo.dll
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Model\bin\Debug\net8.0\Ecommerce.Modelo.deps.json
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Model\bin\Debug\net8.0\Ecommerce.Modelo.runtimeconfig.json
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Model\bin\Debug\net8.0\Ecommerce.Modelo.dll
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Model\bin\Debug\net8.0\Ecommerce.Modelo.pdb
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Modelo.csproj.AssemblyReference.cache
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Modelo.AssemblyInfoInputs.cache
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Modelo.AssemblyInfo.cs
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Modelo.sourcelink.json
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Modelo.dll
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Model\obj\Debug\net8.0\refint\Ecommerce.Modelo.dll
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Modelo.pdb
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Modelo.genruntimeconfig.cache
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Model\obj\Debug\net8.0\ref\Ecommerce.Modelo.dll

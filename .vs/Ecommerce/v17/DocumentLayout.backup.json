@@ -1,38 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\",
+  "WorkspaceRootPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{942060CB-A9CF-4C33-9D0B-73A7DBADEF74}|Ecommerce.API\\Ecommerce.API.csproj|c:\\users\\kevin\\onedrive\\documents\\kevin\\ecommerce\\ecommerce.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{942060CB-A9CF-4C33-9D0B-73A7DBADEF74}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1271C230-6A44-4630-9A5A-149A379060B8}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\bs00011124\\documents\\c# curso\\netproject-main\\.netproject\\ecommerce.webassembly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1271C230-6A44-4630-9A5A-149A379060B8}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{942060CB-A9CF-4C33-9D0B-73A7DBADEF74}|Ecommerce.API\\Ecommerce.API.csproj|c:\\users\\kevin\\onedrive\\documents\\kevin\\ecommerce\\ecommerce.api\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{942060CB-A9CF-4C33-9D0B-73A7DBADEF74}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1271C230-6A44-4630-9A5A-149A379060B8}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\bs00011124\\documents\\c# curso\\netproject-main\\.netproject\\ecommerce.webassembly\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1271C230-6A44-4630-9A5A-149A379060B8}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{942060CB-A9CF-4C33-9D0B-73A7DBADEF74}|Ecommerce.API\\Ecommerce.API.csproj|c:\\users\\kevin\\onedrive\\documents\\kevin\\ecommerce\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{942060CB-A9CF-4C33-9D0B-73A7DBADEF74}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1271C230-6A44-4630-9A5A-149A379060B8}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\bs00011124\\documents\\c# curso\\netproject-main\\.netproject\\ecommerce.webassembly\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1271C230-6A44-4630-9A5A-149A379060B8}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{942060CB-A9CF-4C33-9D0B-73A7DBADEF74}|Ecommerce.API\\Ecommerce.API.csproj|c:\\users\\kevin\\onedrive\\documents\\kevin\\ecommerce\\ecommerce.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{942060CB-A9CF-4C33-9D0B-73A7DBADEF74}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1271C230-6A44-4630-9A5A-149A379060B8}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\bs00011124\\documents\\c# curso\\netproject-main\\.netproject\\ecommerce.webassembly\\pages\\tienda\\detalle.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1271C230-6A44-4630-9A5A-149A379060B8}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\pages\\tienda\\detalle.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{942060CB-A9CF-4C33-9D0B-73A7DBADEF74}|Ecommerce.API\\Ecommerce.API.csproj|c:\\users\\kevin\\onedrive\\documents\\kevin\\ecommerce\\ecommerce.api\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{942060CB-A9CF-4C33-9D0B-73A7DBADEF74}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1271C230-6A44-4630-9A5A-149A379060B8}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\bs00011124\\documents\\c# curso\\netproject-main\\.netproject\\ecommerce.webassembly\\pages\\tienda\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1271C230-6A44-4630-9A5A-149A379060B8}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\pages\\tienda\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{942060CB-A9CF-4C33-9D0B-73A7DBADEF74}|Ecommerce.API\\Ecommerce.API.csproj|c:\\users\\kevin\\onedrive\\documents\\kevin\\ecommerce\\ecommerce.api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{942060CB-A9CF-4C33-9D0B-73A7DBADEF74}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{942060CB-A9CF-4C33-9D0B-73A7DBADEF74}|Ecommerce.API\\Ecommerce.API.csproj|c:\\users\\kevin\\onedrive\\documents\\kevin\\ecommerce\\ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{942060CB-A9CF-4C33-9D0B-73A7DBADEF74}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBC96A0F-B6A6-4109-A68B-F5FDEA142C20}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|c:\\users\\kevin\\onedrive\\documents\\kevin\\ecommerce\\ecommerce.servicio\\implementacion\\usuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBC96A0F-B6A6-4109-A68B-F5FDEA142C20}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|solutionrelative:ecommerce.servicio\\implementacion\\usuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1271C230-6A44-4630-9A5A-149A379060B8}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|c:\\users\\bs00011124\\documents\\c# curso\\netproject-main\\.netproject\\ecommerce.webassembly\\pages\\tienda\\catalogo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1271C230-6A44-4630-9A5A-149A379060B8}|Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj|solutionrelative:ecommerce.webassembly\\pages\\tienda\\catalogo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,103 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.API\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.API\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Ecommerce.API\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T02:34:38.739Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VentaController.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.API\\Controllers\\VentaController.cs",
-              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\VentaController.cs",
-              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.API\\Controllers\\VentaController.cs",
-              "RelativeToolTip": "Ecommerce.API\\Controllers\\VentaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T02:30:01.345Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.API\\Program.cs",
-              "RelativeDocumentMoniker": "Ecommerce.API\\Program.cs",
-              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.API\\Program.cs",
-              "RelativeToolTip": "Ecommerce.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T23:12:49.425Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.API\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.API\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "Ecommerce.API\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAHEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T20:00:09.146Z"
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\wwwroot\\index.html",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\wwwroot\\index.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-08T20:26:10.761Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CategoriaController.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.API\\Controllers\\CategoriaController.cs",
-              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\CategoriaController.cs",
-              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.API\\Controllers\\CategoriaController.cs",
-              "RelativeToolTip": "Ecommerce.API\\Controllers\\CategoriaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T19:45:16.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Ecommerce.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.API\\appsettings.json",
-              "RelativeToolTip": "Ecommerce.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-07T19:41:51.843Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UsuarioServicio.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.Servicio\\Implementacion\\UsuarioServicio.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Servicio\\Implementacion\\UsuarioServicio.cs",
-              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.Servicio\\Implementacion\\UsuarioServicio.cs",
-              "RelativeToolTip": "Ecommerce.Servicio\\Implementacion\\UsuarioServicio.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowCwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T19:39:34.172Z"
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\_Imports.razor",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\_Imports.razor",
+              "ToolTip": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\_Imports.razor",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T20:25:44.893Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.API\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.API\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "Ecommerce.API\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Program.cs",
+              "ToolTip": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\Program.cs",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T17:49:06.105Z",
+              "WhenOpened": "2025-01-08T20:24:53.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.razor",
+              "DocumentMoniker": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\Pages\\Tienda\\Cart.razor",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Pages\\Tienda\\Cart.razor",
+              "ToolTip": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\Pages\\Tienda\\Cart.razor",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Pages\\Tienda\\Cart.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T20:22:15.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Detalle.razor",
+              "DocumentMoniker": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\Pages\\Tienda\\Detalle.razor",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Pages\\Tienda\\Detalle.razor",
+              "ToolTip": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\Pages\\Tienda\\Detalle.razor",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Pages\\Tienda\\Detalle.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T20:21:39.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Catalogo.razor",
+              "DocumentMoniker": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\Pages\\Tienda\\Catalogo.razor",
+              "RelativeDocumentMoniker": "Ecommerce.WebAssembly\\Pages\\Tienda\\Catalogo.razor",
+              "ToolTip": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\Pages\\Tienda\\Catalogo.razor",
+              "RelativeToolTip": "Ecommerce.WebAssembly\\Pages\\Tienda\\Catalogo.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T20:20:36.205Z",
               "EditorCaption": ""
             }
           ]
