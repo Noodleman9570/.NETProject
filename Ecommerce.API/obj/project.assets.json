@@ -5322,23 +5322,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\BS00011124\\.nuget\\packages\\": {},
+    "C:\\Users\\kevin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.API\\Ecommerce.API.csproj",
+      "projectUniqueName": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.API\\Ecommerce.API.csproj",
       "projectName": "Ecommerce.API",
-      "projectPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.API\\Ecommerce.API.csproj",
-      "packagesPath": "C:\\Users\\BS00011124\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.API\\obj\\",
+      "projectPath": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.API\\Ecommerce.API.csproj",
+      "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\BS00011124\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5354,8 +5354,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj": {
-              "projectPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj"
+            "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj": {
+              "projectPath": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj"
             }
           }
         }

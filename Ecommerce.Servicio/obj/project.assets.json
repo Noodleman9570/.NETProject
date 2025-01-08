@@ -3313,23 +3313,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\BS00011124\\.nuget\\packages\\": {},
+    "C:\\Users\\kevin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj",
+      "projectUniqueName": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj",
       "projectName": "Ecommerce.Servicio",
-      "projectPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj",
-      "packagesPath": "C:\\Users\\BS00011124\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Servicio\\obj\\",
+      "projectPath": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj",
+      "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.Servicio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\BS00011124\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3345,17 +3345,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
-              "projectPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.DTO\\Ecommerce.DTO.csproj"
+            "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
+              "projectPath": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj"
             },
-            "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Model\\Ecommerce.Modelo.csproj": {
-              "projectPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Model\\Ecommerce.Modelo.csproj"
+            "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.Model\\Ecommerce.Modelo.csproj": {
+              "projectPath": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.Model\\Ecommerce.Modelo.csproj"
             },
-            "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj": {
-              "projectPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj"
+            "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj": {
+              "projectPath": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj"
             },
-            "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj": {
-              "projectPath": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject-main\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj"
+            "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj": {
+              "projectPath": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj"
             }
           }
         }
