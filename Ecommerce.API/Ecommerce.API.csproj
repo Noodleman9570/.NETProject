@@ -15,8 +15,12 @@
     </PackageReference>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="Blazored.Toast" Version="4.0.0" />
+	</ItemGroup>
 
-  <ItemGroup>
+
+	<ItemGroup>
     <ProjectReference Include="..\Ecommerce.Servicio\Ecommerce.Servicio.csproj" />
   </ItemGroup>
 

@@ -25,7 +25,7 @@ namespace Ecommerce.API.Controllers
 
             try
             {
-                if (buscar != "NA") buscar = "";
+                if (buscar == "NA") buscar = "";
                 response.Exitoso = true;
                 response.Resultado = await _productoServicio.Lista(buscar);
             }

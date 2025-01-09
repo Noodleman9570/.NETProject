@@ -1,9 +1,7 @@
 ﻿@page "/usuarios"
 
-@using Ecommerce.DTO;
-@using Ecommerce.WebAssembly.Servicios.Contrato;
-@inject Blazored.Toast.Services.IToastService toastService
 @inject IUsuarioServicio usuarioServicio
+@inject Blazored.Toast.Services.IToastService toastService
 @inject SweetAlertService Swal;
 
 
@@ -66,7 +64,8 @@
 	private string buscar = "";
 
 
-	private async Task ObtenerUsuarios(string Valor = "a")
+
+	private async Task ObtenerUsuarios(string Valor = "")
 	{
 		var response = await usuarioServicio.Lista("Administrador", Valor);
 		if (response.Exitoso)
@@ -83,6 +82,7 @@
 	protected override async Task OnInitializedAsync()
 	{
 		await ObtenerUsuarios();
+
 	}
 
 	private async Task Eliminar(UsuarioDTO modelo)
@@ -107,7 +107,7 @@
 			}
 			else
 			{
-				toastService.ShowError(response.Mensaje);
+				toastService.ShowWarning(response.Mensaje);
 			}
 		}
 	}

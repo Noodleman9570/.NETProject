@@ -6,7 +6,7 @@ using System.Net.Http;
 
 using Blazorise;
 using Blazorise.Bootstrap;
-using Blazorise.Icons.FontAwesome;
+using Blazorise.Icons.Bootstrap;
 using Blazored.LocalStorage;
 using Blazored.Toast;
 
@@ -23,13 +23,6 @@ builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https:/
 
 builder.Services.AddBlazoredLocalStorage();
 builder.Services.AddBlazoredToast();
-builder.Services
-   .AddBlazorise(options =>
-   {
-       options.Immediate = true;
-   })
-   .AddBootstrapProviders()
-   .AddFontAwesomeIcons();
 
 builder.Services.AddScoped<IUsuarioServicio, UsuarioServicio>();
 builder.Services.AddScoped<ICategoriaServicio, CategoriaServicio>();
@@ -40,4 +33,19 @@ builder.Services.AddScoped<IDashboardServicio, DashboardServicio>();
 
 builder.Services.AddSweetAlert2();
 
-await builder.Build().RunAsync();
+builder.Services
+      .AddBlazorise(options =>
+      {
+          options.Immediate = true;
+      })
+      .AddBootstrapProviders()
+      .AddBootstrapIcons();
+
+var app = builder.Build();
+
+// Eliminar las siguientes líneas ya que no son necesarias y causan el error
+// app.Services
+//    .UseBootstrapProviders()
+//    .UseBootstrapIcons();
+
+await app.RunAsync();

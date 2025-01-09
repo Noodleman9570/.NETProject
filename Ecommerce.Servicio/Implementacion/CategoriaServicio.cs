@@ -120,7 +120,7 @@ namespace Ecommerce.Servicio.Implementacion
                 var consulta = _modeloRepositorio.Consultar(p => p.IdCategoria == id);
                 var fromDbModelo = await consulta.FirstOrDefaultAsync();
 
-                if (fromDbModelo == null)
+                if (fromDbModelo != null)
                     return _mapper.Map<CategoriaDTO>(fromDbModelo);
                 else
                     throw new TaskCanceledException("No se encontraron coincidencias");

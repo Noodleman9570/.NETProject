@@ -76,6 +76,26 @@
           }
         }
       },
+      "Blazored.Toast/4.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "7.0.1",
+          "Microsoft.AspNetCore.Components.Web": "7.0.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
+        },
+        "compile": {
+          "lib/net7.0/Blazored.Toast.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/Blazored.Toast.dll": {}
+        },
+        "build": {
+          "buildTransitive/Blazored.Toast.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Blazored.Toast.props": {}
+        }
+      },
       "Blazorise/1.7.2": {
         "type": "package",
         "dependencies": {
@@ -2020,6 +2040,25 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "Blazored.Toast/4.0.0": {
+      "sha512": "VeeL6Sz9FQzZG0RoGZeLkrUuE1wQbGpgyDlhZuirSoJ641jpPP6B5E+cu+F+nzHPdO/L7hP8/zb+wJAkBP6bzA==",
+      "type": "package",
+      "path": "blazored.toast/4.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "blazored.toast.4.0.0.nupkg.sha512",
+        "blazored.toast.nuspec",
+        "build/Blazored.Toast.props",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "buildMultiTargeting/Blazored.Toast.props",
+        "buildTransitive/Blazored.Toast.props",
+        "icon.png",
+        "lib/net6.0/Blazored.Toast.dll",
+        "lib/net7.0/Blazored.Toast.dll",
+        "staticwebassets/Blazored.Toast.bundle.scp.css"
       ]
     },
     "Blazorise/1.7.2": {
@@ -5718,6 +5757,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Blazored.Toast >= 4.0.0",
       "Blazorise.Icons.FontAwesome >= 1.7.2",
       "Ecommerce.Servicio >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.0",
@@ -5780,6 +5820,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Blazored.Toast": {
+            "target": "Package",
+            "version": "[4.0.0, )"
+          },
           "Blazorise.Icons.FontAwesome": {
             "target": "Package",
             "version": "[1.7.2, )"
