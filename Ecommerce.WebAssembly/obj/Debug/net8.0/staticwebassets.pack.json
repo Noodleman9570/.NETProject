@@ -1,35 +1,51 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.WebAssembly\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Ecommerce.WebAssembly.styles.css",
+      "Id": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Ecommerce.WebAssembly.styles.css",
       "PackagePath": "staticwebassets\\Ecommerce.WebAssembly.styles.css"
     },
     {
-      "Id": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.WebAssembly\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.WebAssembly\\wwwroot\\css\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.WebAssembly\\wwwroot\\css\\bootstrap-icons.min.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons.min.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.WebAssembly\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.WebAssembly\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.WebAssembly\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\wwwroot\\icon-192.png",
+      "Id": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.WebAssembly\\wwwroot\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.WebAssembly\\wwwroot\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.WebAssembly\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\wwwroot\\index.html",
+      "Id": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.WebAssembly\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

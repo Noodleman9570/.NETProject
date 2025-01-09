@@ -8,7 +8,8 @@ namespace Ecommerce.WebAssembly.Servicios.Implementacion
     public class UsuarioServicio:IUsuarioServicio
     {
         private readonly HttpClient _httpClient;
-        private UsuarioServicio(HttpClient httpClient)
+
+        public UsuarioServicio(HttpClient httpClient)
         {
             _httpClient = httpClient;
         }

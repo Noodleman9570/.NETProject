@@ -40,28 +40,6 @@ C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerc
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.Servicio\obj\Debug\net8.0\refint\Ecommerce.Servicio.dll
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.Servicio\obj\Debug\net8.0\Ecommerce.Servicio.pdb
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.Servicio\obj\Debug\net8.0\ref\Ecommerce.Servicio.dll
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.Servicio.deps.json
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.Servicio.dll
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.Servicio.pdb
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.DTO.dll
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.Modelo.dll
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.Repositorio.dll
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.Utilidades.dll
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.DTO.pdb
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.Modelo.pdb
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.Repositorio.pdb
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.Utilidades.pdb
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\Ecommerce.Servicio.csproj.AssemblyReference.cache
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\Ecommerce.Servicio.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\Ecommerce.Servicio.AssemblyInfoInputs.cache
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\Ecommerce.Servicio.AssemblyInfo.cs
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\Ecommerce.Servicio.csproj.CoreCompileInputs.cache
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\Ecommerce.Servicio.sourcelink.json
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\Ecommerc.038EB47A.Up2Date
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\Ecommerce.Servicio.dll
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\refint\Ecommerce.Servicio.dll
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\Ecommerce.Servicio.pdb
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\ref\Ecommerce.Servicio.dll
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.Servicio.deps.json
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.Servicio.dll
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.Servicio.pdb
@@ -84,3 +62,25 @@ C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Ser
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Servicio\obj\Debug\net8.0\refint\Ecommerce.Servicio.dll
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Servicio\obj\Debug\net8.0\Ecommerce.Servicio.pdb
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Servicio\obj\Debug\net8.0\ref\Ecommerce.Servicio.dll
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.Servicio.deps.json
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.Servicio.dll
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.Servicio.pdb
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.DTO.dll
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.Modelo.dll
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.Repositorio.dll
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.Utilidades.dll
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.DTO.pdb
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.Modelo.pdb
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.Repositorio.pdb
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\bin\Debug\net8.0\Ecommerce.Utilidades.pdb
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\Ecommerce.Servicio.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\Ecommerce.Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\Ecommerce.Servicio.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\Ecommerce.Servicio.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\Ecommerce.Servicio.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\Ecommerce.Servicio.sourcelink.json
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\Ecommerc.038EB47A.Up2Date
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\Ecommerce.Servicio.dll
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\refint\Ecommerce.Servicio.dll
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\Ecommerce.Servicio.pdb
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.Servicio\obj\Debug\net8.0\ref\Ecommerce.Servicio.dll

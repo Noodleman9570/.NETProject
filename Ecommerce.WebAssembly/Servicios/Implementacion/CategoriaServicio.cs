@@ -7,7 +7,7 @@ namespace Ecommerce.WebAssembly.Servicios.Implementacion
     public class CategoriaServicio : ICategoriaServicio
     {
         private readonly HttpClient _httpClient;
-        private CategoriaServicio(HttpClient httpClient)
+        public CategoriaServicio(HttpClient httpClient)
         {
             _httpClient = httpClient;
         }

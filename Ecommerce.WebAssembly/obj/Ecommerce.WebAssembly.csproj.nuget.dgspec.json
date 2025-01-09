@@ -129,6 +129,18 @@
               "target": "Package",
               "version": "[4.1.0, )"
             },
+            "Blazorise": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            },
+            "Blazorise.Bootstrap": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            },
+            "Blazorise.Icons.FontAwesome": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            },
             "CurrieTechnologies.Razor.SweetAlert2": {
               "target": "Package",
               "version": "[5.5.0, )"

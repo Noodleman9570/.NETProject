@@ -8,7 +8,7 @@ namespace Ecommerce.WebAssembly.Servicios.Implementacion
     {
 
         private readonly HttpClient _httpClient;
-        private DashboardServicio(HttpClient httpClient)
+        public DashboardServicio(HttpClient httpClient)
         {
             _httpClient = httpClient;
         }

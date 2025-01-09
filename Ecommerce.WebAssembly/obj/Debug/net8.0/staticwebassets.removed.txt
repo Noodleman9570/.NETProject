@@ -1,0 +1,2 @@
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\wwwroot\font\bootstrap-icons.woff
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\wwwroot\font\bootstrap-icons.woff2

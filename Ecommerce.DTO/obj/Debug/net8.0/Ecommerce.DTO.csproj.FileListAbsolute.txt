@@ -20,18 +20,6 @@ C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerc
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.DTO\obj\Debug\net8.0\refint\Ecommerce.DTO.dll
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.pdb
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject-main\Ecommerce.DTO\obj\Debug\net8.0\ref\Ecommerce.DTO.dll
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.deps.json
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.dll
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.pdb
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.AssemblyInfoInputs.cache
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.AssemblyInfo.cs
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.csproj.CoreCompileInputs.cache
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.sourcelink.json
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.dll
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\refint\Ecommerce.DTO.dll
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.pdb
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\ref\Ecommerce.DTO.dll
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.deps.json
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.dll
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.pdb
@@ -44,3 +32,15 @@ C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.DTO
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.DTO\obj\Debug\net8.0\refint\Ecommerce.DTO.dll
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.pdb
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.DTO\obj\Debug\net8.0\ref\Ecommerce.DTO.dll
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.deps.json
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.dll
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.pdb
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.sourcelink.json
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.dll
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\refint\Ecommerce.DTO.dll
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.pdb
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\ref\Ecommerce.DTO.dll

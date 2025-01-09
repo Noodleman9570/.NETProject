@@ -7,7 +7,7 @@ namespace Ecommerce.WebAssembly.Servicios.Implementacion
     public class VentaServicio:IVentaServicio
     {
         private readonly HttpClient _httpClient;
-        private VentaServicio(HttpClient httpClient)
+        public VentaServicio(HttpClient httpClient)
         {
             _httpClient = httpClient;
         }

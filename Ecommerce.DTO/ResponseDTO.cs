@@ -9,7 +9,7 @@ namespace Ecommerce.DTO
     public class ResponseDTO<T>
     {
         public T? Resultado { get; set; }
-        public bool? Exitoso { get; set; }
+        public bool Exitoso { get; set; }
         public string? Mensaje { get; set; }
     }
 }
