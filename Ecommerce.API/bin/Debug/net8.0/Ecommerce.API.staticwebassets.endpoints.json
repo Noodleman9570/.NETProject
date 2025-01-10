@@ -3,6 +3,133 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
+      "Route": "Ecommerce.API.d0v7cczv69.styles.css",
+      "AssetFile": "Ecommerce.API.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vcRbcyM3HHt7VoDapZ115UZ/VPjqM/EhnePJ265Vn7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 15:40:53 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/Blazored.Toast/Blazored.Toast.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d0v7cczv69"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vcRbcyM3HHt7VoDapZ115UZ/VPjqM/EhnePJ265Vn7c="
+        },
+        {
+          "Name": "label",
+          "Value": "Ecommerce.API.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "Ecommerce.API.styles.css",
+      "AssetFile": "Ecommerce.API.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vcRbcyM3HHt7VoDapZ115UZ/VPjqM/EhnePJ265Vn7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 15:40:53 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/Blazored.Toast/Blazored.Toast.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vcRbcyM3HHt7VoDapZ115UZ/VPjqM/EhnePJ265Vn7c="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazored.Toast/Blazored.Toast.bundle.scp.css",
+      "AssetFile": "_content/Blazored.Toast/Blazored.Toast.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3838"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IGru8rpoFZAbW/qPT9Hyfp3fdcPoGMKmKm4RdkpN63s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jan 2023 23:07:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IGru8rpoFZAbW/qPT9Hyfp3fdcPoGMKmKm4RdkpN63s="
+        }
+      ]
+    },
+    {
       "Route": "_content/Blazorise.Icons.FontAwesome/v5/css/all.css",
       "AssetFile": "_content/Blazorise.Icons.FontAwesome/v5/css/all.css",
       "Selectors": [],

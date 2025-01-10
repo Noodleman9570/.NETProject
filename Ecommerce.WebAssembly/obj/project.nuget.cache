@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "R6xrvhhiX2g=",
+  "dgSpecHash": "JzOY4DmWh48=",
   "success": true,
   "projectFilePath": "C:\\Users\\kevin\\OneDrive\\Documents\\kevin\\Ecommerce\\Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kevin\\.nuget\\packages\\blazored.localstorage\\4.3.0\\blazored.localstorage.4.3.0.nupkg.sha512",
-    "C:\\Users\\kevin\\.nuget\\packages\\blazored.toast\\4.1.0\\blazored.toast.4.1.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\blazored.toast\\4.2.1\\blazored.toast.4.2.1.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\blazorise\\1.7.2\\blazorise.1.7.2.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\blazorise.bootstrap\\1.7.2\\blazorise.bootstrap.1.7.2.nupkg.sha512",
-    "C:\\Users\\kevin\\.nuget\\packages\\blazorise.icons.fontawesome\\1.7.2\\blazorise.icons.fontawesome.1.7.2.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\blazorise.icons.bootstrap\\1.7.2\\blazorise.icons.bootstrap.1.7.2.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\blazorise.licensing\\1.3.0\\blazorise.licensing.1.3.0.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\currietechnologies.razor.sweetalert2.5.5.0.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.11\\microsoft.aspnetcore.authorization.8.0.11.nupkg.sha512",

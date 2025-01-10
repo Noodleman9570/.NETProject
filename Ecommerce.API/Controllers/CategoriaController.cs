@@ -17,14 +17,14 @@ namespace Ecommerce.API.Controllers
             _categoriaServicio = categoriaServicio;
         }
 
-        [HttpGet("Lista/{buscar:alpha?}")]
+        [HttpGet("Lista/{buscar?}")]
         public async Task<IActionResult> Lista(string buscar = "NA")
         {
             var response = new ResponseDTO<List<CategoriaDTO>>();
 
             try
             {
-                if (buscar != "NA") buscar = "";
+                if (buscar == "NA") buscar = "";
 
                 response.Exitoso = true;
                 response.Resultado = await _categoriaServicio.Lista(buscar);
@@ -91,7 +91,7 @@ namespace Ecommerce.API.Controllers
             return Ok(response);
         }
 
-        [HttpDelete("Eliminar")]
+        [HttpDelete("Eliminar/{id:int}")]
         public async Task<IActionResult> Eliminar(int id)
         {
             var response = new ResponseDTO<bool>();

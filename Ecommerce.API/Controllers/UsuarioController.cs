@@ -17,14 +17,14 @@ namespace Ecommerce.API.Controllers
             _usuarioServicio = usuarioServicio;
         }
 
-        [HttpGet("Lista/{rol:alpha}/{buscar:alpha?}")]
+        [HttpGet("Lista/{rol:alpha}/{buscar?}")]
         public async Task<IActionResult> Lista(string rol, string buscar = "NA")
         {
             var response = new ResponseDTO<List<UsuarioDTO>>();
 
             try
             {
-                if (buscar != "NA") buscar = "";
+                if (buscar == "NA") buscar = "";
                 response.Exitoso = true;
                 response.Resultado = await _usuarioServicio.Lista(rol, buscar);
             }
@@ -108,7 +108,7 @@ namespace Ecommerce.API.Controllers
             return Ok(response);
         }
 
-        [HttpDelete("Eliminar")]
+        [HttpDelete("Eliminar/{id:int}")]
         public async Task<IActionResult> Eliminar(int id)
         {
             var response = new ResponseDTO<bool>();

@@ -127,7 +127,7 @@
             },
             "Blazored.Toast": {
               "target": "Package",
-              "version": "[4.1.0, )"
+              "version": "[4.2.1, )"
             },
             "Blazorise": {
               "target": "Package",
@@ -137,7 +137,7 @@
               "target": "Package",
               "version": "[1.7.2, )"
             },
-            "Blazorise.Icons.FontAwesome": {
+            "Blazorise.Icons.Bootstrap": {
               "target": "Package",
               "version": "[1.7.2, )"
             },
