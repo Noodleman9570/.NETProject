@@ -14,7 +14,7 @@
     </div>
     <div class="col-sm-6 col-md-8 col-xl-9 mb-4">
         <div class="input-group mb-3">
-            <input type="text" class="form-control" placeholder="Buscar categoria..." @bind-value="buscar">
+            <input type="text" class="form-control" placeholder="Buscar categoria..." @oninput="(async (e) => await ObtenerCategorias(((ChangeEventArgs)e).Value.ToString()))">
             <button class="btn btn-outline-secondary" type="button" @onclick="(async()=> await ObtenerCategorias(buscar))">
                 <i class="bi bi-search"></i>
             </button>
@@ -67,6 +67,7 @@
 
     private async Task ObtenerCategorias(string Valor = "")
     {
+        buscar = Valor;
         var response = await categoriaServicio.Lista(Valor);
         if (response.Exitoso)
         {

@@ -159,7 +159,6 @@
             "in": "path",
             "required": true,
             "schema": {
-              "pattern": "^[A-Za-z]*$",
               "type": "string",
               "default": "NA"
             }
@@ -192,7 +191,6 @@
             "in": "path",
             "required": true,
             "schema": {
-              "pattern": "^[A-Za-z]*$",
               "type": "string",
               "default": "NA"
             }
@@ -290,7 +288,7 @@
         }
       }
     },
-    "/api/Producto/Eliminar": {
+    "/api/Producto/Eliminar/{id}": {
       "delete": {
         "tags": [
           "Producto"
@@ -298,7 +296,8 @@
         "parameters": [
           {
             "name": "id",
-            "in": "query",
+            "in": "path",
+            "required": true,
             "schema": {
               "type": "integer",
               "format": "int32"

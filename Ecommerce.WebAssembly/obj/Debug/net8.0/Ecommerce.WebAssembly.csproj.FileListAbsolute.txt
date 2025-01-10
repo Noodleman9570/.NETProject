@@ -3193,6 +3193,6 @@ C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Web
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.WebAssembly\obj\Debug\net8.0\refint\Ecommerce.WebAssembly.dll
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.WebAssembly\obj\Debug\net8.0\Ecommerce.WebAssembly.pdb
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.WebAssembly\obj\Debug\net8.0\ref\Ecommerce.WebAssembly.dll
-C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\a1tvbzoq03-59r9ofo3tb.gz
-C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\xtoelshajf-sqggt6pxj2.gz
-C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\kod9dxdfrc-ambdtcxyzv.gz
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\a1tvbzoq03-46dcuefq3n.gz
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\xtoelshajf-z49po6dhqu.gz
+C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\kod9dxdfrc-nyyzxfdpp9.gz

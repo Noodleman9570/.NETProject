@@ -148,7 +148,7 @@ namespace Ecommerce.Servicio.Implementacion
                 var fromDbModelo = await consulta.FirstOrDefaultAsync();
 
 
-                if (fromDbModelo == null)
+                if (fromDbModelo != null)
                     return _mapper.Map<ProductoDTO>(fromDbModelo);
                 else
                     throw new TaskCanceledException("No se encontraron coincidencias");

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rmx7Hin91TB01j7IDoCrwHfXYJDt6AdZUA2lf+TMkmY=",
+  "Hash": "XZ1Zz8HEJ12fL4Rjy1gJJyuXpvp0rrC1lLIVPhooUdU=",
   "Source": "Ecommerce.WebAssembly",
   "BasePath": "/",
   "Mode": "Root",
@@ -1669,8 +1669,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "ambdtcxyzv",
-      "Integrity": "7gY7Cgfl942AQitcp5J8V7mVEaAbZotdVhvdai9HDlw=",
+      "Fingerprint": "nyyzxfdpp9",
+      "Integrity": "QffTDNPx4wGYZcHrsfqQ7AT3pcaPYCfJ9ckkAFZiXIc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\blazor.boot.json"
@@ -2026,8 +2026,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "sqggt6pxj2",
-      "Integrity": "xJ2MKEXojzJRl70hzTvVT+darzIJTm0TrXB2XG5RPdQ=",
+      "Fingerprint": "z49po6dhqu",
+      "Integrity": "fQV/UqVczmCIcrfqurpCDrkh4AiUxF/IZ8M7+8AHNwI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\Ecommerce.WebAssembly.pdb"
@@ -2047,8 +2047,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "59r9ofo3tb",
-      "Integrity": "xxl1ORfVs1OK5MZjOlinFfNNRZHwv/5qbbLoCmcIFYc=",
+      "Fingerprint": "46dcuefq3n",
+      "Integrity": "rBOC4aTcQRNDPThrdYRG3W4r/PHQ0An6I0ZYT6g5yy0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\webcil\\Ecommerce.WebAssembly.wasm"
@@ -7199,7 +7199,7 @@
       "OriginalItemSpec": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.wasm"
     },
     {
-      "Identity": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\a1tvbzoq03-59r9ofo3tb.gz",
+      "Identity": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\a1tvbzoq03-46dcuefq3n.gz",
       "SourceId": "Ecommerce.WebAssembly",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\",
@@ -7213,8 +7213,8 @@
       "RelatedAsset": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Ecommerce.WebAssembly.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "1px7dw1fyj",
-      "Integrity": "VSP6dSqpAPEZHugIfK9LKCxSyj5r/x6WSMPl9BEGonQ=",
+      "Fingerprint": "4rnrzqz4m4",
+      "Integrity": "AIwHISNqIxZzHEnK4smQQmHE68CnzE3tvR2rW5D6vFg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Ecommerce.WebAssembly.wasm"
@@ -8648,7 +8648,7 @@
       "OriginalItemSpec": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Tasks.Parallel.wasm"
     },
     {
-      "Identity": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\kod9dxdfrc-ambdtcxyzv.gz",
+      "Identity": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\kod9dxdfrc-nyyzxfdpp9.gz",
       "SourceId": "Ecommerce.WebAssembly",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\",
@@ -8662,8 +8662,8 @@
       "RelatedAsset": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "09hu06un8y",
-      "Integrity": "LNU+7C5LGSijIjXcVRTYiQYl2H2XwKbwrQKDdxBwZJE=",
+      "Fingerprint": "rgnh7f7hqc",
+      "Integrity": "9bs6rsD739vDMarLw5CZUSBNzzYyK56KjURztgExk5s=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -10391,7 +10391,7 @@
       "OriginalItemSpec": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Compression.Brotli.wasm"
     },
     {
-      "Identity": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\xtoelshajf-sqggt6pxj2.gz",
+      "Identity": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\xtoelshajf-z49po6dhqu.gz",
       "SourceId": "Ecommerce.WebAssembly",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\",
@@ -10405,8 +10405,8 @@
       "RelatedAsset": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Ecommerce.WebAssembly.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "cvayztchao",
-      "Integrity": "iAIPMMgWiZRvoV2Pkf3jS0z1ri5HaagK3y7hA54qft0=",
+      "Fingerprint": "w1js9m46ka",
+      "Integrity": "jC+doCTbdTGUs+if+zuBNaHksUuEahB899mFzD3vx7k=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Ecommerce.WebAssembly.pdb"
@@ -15736,11 +15736,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7gY7Cgfl942AQitcp5J8V7mVEaAbZotdVhvdai9HDlw=\""
+          "Value": "\"QffTDNPx4wGYZcHrsfqQ7AT3pcaPYCfJ9ckkAFZiXIc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 19:22:34 GMT"
+          "Value": "Fri, 10 Jan 2025 19:40:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15750,18 +15750,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7gY7Cgfl942AQitcp5J8V7mVEaAbZotdVhvdai9HDlw="
+          "Value": "sha256-QffTDNPx4wGYZcHrsfqQ7AT3pcaPYCfJ9ckkAFZiXIc="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\kod9dxdfrc-ambdtcxyzv.gz",
+      "AssetFile": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\kod9dxdfrc-nyyzxfdpp9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000107968041"
+          "Quality": "0.000107956386"
         }
       ],
       "ResponseHeaders": [
@@ -15771,15 +15771,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9261"
+          "Value": "9262"
         },
         {
           "Name": "ETag",
-          "Value": "\"LNU+7C5LGSijIjXcVRTYiQYl2H2XwKbwrQKDdxBwZJE=\""
+          "Value": "\"9bs6rsD739vDMarLw5CZUSBNzzYyK56KjURztgExk5s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 18:01:01 GMT"
+          "Value": "Fri, 10 Jan 2025 19:37:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15799,19 +15799,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"7gY7Cgfl942AQitcp5J8V7mVEaAbZotdVhvdai9HDlw=\""
+          "Value": "W/\"QffTDNPx4wGYZcHrsfqQ7AT3pcaPYCfJ9ckkAFZiXIc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7gY7Cgfl942AQitcp5J8V7mVEaAbZotdVhvdai9HDlw="
+          "Value": "sha256-QffTDNPx4wGYZcHrsfqQ7AT3pcaPYCfJ9ckkAFZiXIc="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\kod9dxdfrc-ambdtcxyzv.gz",
+      "AssetFile": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\kod9dxdfrc-nyyzxfdpp9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15820,7 +15820,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9261"
+          "Value": "9262"
         },
         {
           "Name": "Content-Type",
@@ -15828,11 +15828,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LNU+7C5LGSijIjXcVRTYiQYl2H2XwKbwrQKDdxBwZJE=\""
+          "Value": "\"9bs6rsD739vDMarLw5CZUSBNzzYyK56KjURztgExk5s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 18:01:01 GMT"
+          "Value": "Fri, 10 Jan 2025 19:37:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15850,7 +15850,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LNU+7C5LGSijIjXcVRTYiQYl2H2XwKbwrQKDdxBwZJE="
+          "Value": "sha256-9bs6rsD739vDMarLw5CZUSBNzzYyK56KjURztgExk5s="
         }
       ]
     },
@@ -18057,7 +18057,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "53244"
+          "Value": "67220"
         },
         {
           "Name": "Content-Type",
@@ -18065,11 +18065,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xJ2MKEXojzJRl70hzTvVT+darzIJTm0TrXB2XG5RPdQ=\""
+          "Value": "\"fQV/UqVczmCIcrfqurpCDrkh4AiUxF/IZ8M7+8AHNwI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 19:22:33 GMT"
+          "Value": "Fri, 10 Jan 2025 19:40:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18079,18 +18079,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xJ2MKEXojzJRl70hzTvVT+darzIJTm0TrXB2XG5RPdQ="
+          "Value": "sha256-fQV/UqVczmCIcrfqurpCDrkh4AiUxF/IZ8M7+8AHNwI="
         }
       ]
     },
     {
       "Route": "_framework/Ecommerce.WebAssembly.pdb",
-      "AssetFile": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\xtoelshajf-sqggt6pxj2.gz",
+      "AssetFile": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\xtoelshajf-z49po6dhqu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000023557681"
+          "Quality": "0.000019697059"
         }
       ],
       "ResponseHeaders": [
@@ -18100,15 +18100,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "42448"
+          "Value": "50768"
         },
         {
           "Name": "ETag",
-          "Value": "\"iAIPMMgWiZRvoV2Pkf3jS0z1ri5HaagK3y7hA54qft0=\""
+          "Value": "\"jC+doCTbdTGUs+if+zuBNaHksUuEahB899mFzD3vx7k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 18:01:00 GMT"
+          "Value": "Fri, 10 Jan 2025 19:37:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18128,19 +18128,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"xJ2MKEXojzJRl70hzTvVT+darzIJTm0TrXB2XG5RPdQ=\""
+          "Value": "W/\"fQV/UqVczmCIcrfqurpCDrkh4AiUxF/IZ8M7+8AHNwI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xJ2MKEXojzJRl70hzTvVT+darzIJTm0TrXB2XG5RPdQ="
+          "Value": "sha256-fQV/UqVczmCIcrfqurpCDrkh4AiUxF/IZ8M7+8AHNwI="
         }
       ]
     },
     {
       "Route": "_framework/Ecommerce.WebAssembly.pdb.gz",
-      "AssetFile": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\xtoelshajf-sqggt6pxj2.gz",
+      "AssetFile": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\xtoelshajf-z49po6dhqu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18149,7 +18149,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "42448"
+          "Value": "50768"
         },
         {
           "Name": "Content-Type",
@@ -18157,11 +18157,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iAIPMMgWiZRvoV2Pkf3jS0z1ri5HaagK3y7hA54qft0=\""
+          "Value": "\"jC+doCTbdTGUs+if+zuBNaHksUuEahB899mFzD3vx7k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 18:01:00 GMT"
+          "Value": "Fri, 10 Jan 2025 19:37:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18179,7 +18179,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iAIPMMgWiZRvoV2Pkf3jS0z1ri5HaagK3y7hA54qft0="
+          "Value": "sha256-jC+doCTbdTGUs+if+zuBNaHksUuEahB899mFzD3vx7k="
         }
       ]
     },
@@ -18194,7 +18194,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "72981"
+          "Value": "109845"
         },
         {
           "Name": "Content-Type",
@@ -18202,11 +18202,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xxl1ORfVs1OK5MZjOlinFfNNRZHwv/5qbbLoCmcIFYc=\""
+          "Value": "\"rBOC4aTcQRNDPThrdYRG3W4r/PHQ0An6I0ZYT6g5yy0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 19:22:34 GMT"
+          "Value": "Fri, 10 Jan 2025 19:40:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18216,18 +18216,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xxl1ORfVs1OK5MZjOlinFfNNRZHwv/5qbbLoCmcIFYc="
+          "Value": "sha256-rBOC4aTcQRNDPThrdYRG3W4r/PHQ0An6I0ZYT6g5yy0="
         }
       ]
     },
     {
       "Route": "_framework/Ecommerce.WebAssembly.wasm",
-      "AssetFile": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\a1tvbzoq03-59r9ofo3tb.gz",
+      "AssetFile": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\a1tvbzoq03-46dcuefq3n.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000035207548"
+          "Quality": "0.000027159890"
         }
       ],
       "ResponseHeaders": [
@@ -18237,15 +18237,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28402"
+          "Value": "36818"
         },
         {
           "Name": "ETag",
-          "Value": "\"VSP6dSqpAPEZHugIfK9LKCxSyj5r/x6WSMPl9BEGonQ=\""
+          "Value": "\"AIwHISNqIxZzHEnK4smQQmHE68CnzE3tvR2rW5D6vFg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 18:01:00 GMT"
+          "Value": "Fri, 10 Jan 2025 19:37:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18265,19 +18265,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"xxl1ORfVs1OK5MZjOlinFfNNRZHwv/5qbbLoCmcIFYc=\""
+          "Value": "W/\"rBOC4aTcQRNDPThrdYRG3W4r/PHQ0An6I0ZYT6g5yy0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xxl1ORfVs1OK5MZjOlinFfNNRZHwv/5qbbLoCmcIFYc="
+          "Value": "sha256-rBOC4aTcQRNDPThrdYRG3W4r/PHQ0An6I0ZYT6g5yy0="
         }
       ]
     },
     {
       "Route": "_framework/Ecommerce.WebAssembly.wasm.gz",
-      "AssetFile": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\a1tvbzoq03-59r9ofo3tb.gz",
+      "AssetFile": "C:\\Users\\BS00011124\\Documents\\C# curso\\NETProject-main\\.NETProject\\Ecommerce.WebAssembly\\obj\\Debug\\net8.0\\compressed\\a1tvbzoq03-46dcuefq3n.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18286,7 +18286,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28402"
+          "Value": "36818"
         },
         {
           "Name": "Content-Type",
@@ -18294,11 +18294,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VSP6dSqpAPEZHugIfK9LKCxSyj5r/x6WSMPl9BEGonQ=\""
+          "Value": "\"AIwHISNqIxZzHEnK4smQQmHE68CnzE3tvR2rW5D6vFg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 18:01:00 GMT"
+          "Value": "Fri, 10 Jan 2025 19:37:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18316,7 +18316,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VSP6dSqpAPEZHugIfK9LKCxSyj5r/x6WSMPl9BEGonQ="
+          "Value": "sha256-AIwHISNqIxZzHEnK4smQQmHE68CnzE3tvR2rW5D6vFg="
         }
       ]
     },
