@@ -9,7 +9,7 @@
 <div class="row justify-content-center mt-3 mb-4">
     <div class="col-sm-6 col-md-8 col-xl-9">
         <div class="input-group mb-3">
-            <input type="text" class="form-control" placeholder="Buscar producto..." @oninput="(async (e) => await ObtenerCatalogo(((ChangeEventArgs)e).Value.ToString()))">
+            <input type="text" class="form-control" placeholder="Buscar producto..." @bind="valorBusqueda" @oninput="(async (e) => await ObtenerCatalogo(((ChangeEventArgs)e).Value.ToString()))">
             <button class="btn btn-outline-secondary" type="button" @onclick="(async () => await  ObtenerCatalogo())">
                 <i class="bi bi-search"></i>
             </button>
@@ -28,23 +28,23 @@
                 {
                     <div class="form-check">
                         <input class="form-check-input" type="radio" name="categoria" id="Todos" value="Todos"
-                               @onchange="(async (e) => await RadioSeleccion(((ChangeEventArgs)e).Value.ToString()))"
-                               checked=@(categoriaSeleccionada.Equals("Todos"))
+                        @onchange="RadioSeleccion"
+                        checked=@(categoriaSeleccionada.Equals("Todos"))
                         >
                         <label class="form-check-label" for="Todos">
                             Todos
                         </label>
                     </div>
 
-                    @foreach (var itemC in listaCategoria)
+                    @foreach (var item in listaCategoria)
                     {
                         <div class="form-check">
-                            <input class="form-check-input" type="radio" name="categoria" id="@itemC.IdCategoria" value="@itemC.Nombre"
-                                   @onchange="(async (e) => await RadioSeleccion(((ChangeEventArgs)e).Value.ToString()))"
-                                   checked=@(categoriaSeleccionada.Equals(itemC.Nombre))
+                            <input class="form-check-input" type="radio" name="categoria" id="@item.IdCategoria" value="@item.Nombre"
+                            @onchange="RadioSeleccion"
+                            checked=@(categoriaSeleccionada.Equals(item.Nombre, StringComparison.OrdinalIgnoreCase))
                             >
-                            <label class="form-check-label" for="@itemC.IdCategoria">
-                                @itemC.Nombre
+                            <label class="form-check-label" for="@item.IdCategoria">
+                                @item.Nombre
                             </label>
                         </div>
                     }
@@ -69,7 +69,10 @@
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Sale badge-->
-                            <div class="badge bg-primary text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Nuevo</div>
+                            @if (DateTime.Now < item.FechaCreacion.Value.AddDays(30))
+                            {
+                                <div class="badge bg-primary text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Nuevo</div>
+                            }
                             <!-- Product image-->
                             <img class="card-img-top border-dark border-1" src="@item.Imagen" style="width:100%;height:250px">
                             <!-- Product details-->
@@ -78,9 +81,15 @@
                                     <!-- Product name-->
                                     <h5 class="fw-bolder">@item.Nombre</h5>
                                     <!-- Product price-->
-                                    <span class="text-danger text-decoration-line-through">S/. @item.Precio</span>
-                                    <span>S /.@item.PrecioOferta</span>
-                                    <span>S /.@item.Precio</span>
+                                    @if (item.PrecioOferta != 0 && item.PrecioOferta < item.Precio)
+                                    {
+                                        <span class="text-danger text-decoration-line-through">S/. @item.Precio</span>
+                                        <span>S /.@item.PrecioOferta</span>
+                                    }
+                                    else
+                                    {
+                                        <span>S /.@item.Precio</span>
+                                    }
                                 </div>
                             </div>
                             <!-- Product actions-->
@@ -106,12 +115,12 @@
     private List<ProductoDTO>? listaProducto = null;
     private List<CategoriaDTO>? listaCategoria = null;
     private string categoriaSeleccionada = "Todos";
-    private string buscar = "";
+    private string valorBusqueda = string.Empty;
 
-    private async Task ObtenerCatalogo(string Valor = "", string categoria = "Todos")
+    private async Task ObtenerCatalogo(string valor = "")
     {
-        buscar = Valor;
-        var response = await productoServicio.Catalogo(categoria, Valor);
+
+        var response = await productoServicio.Catalogo(categoriaSeleccionada, valor);
         if (response.Exitoso)
         {
             listaProducto = (List<ProductoDTO>)response.Resultado!;
@@ -124,7 +133,6 @@
 
     private async Task ObtenerCategoria(string Valor = "")
     {
-        buscar = Valor;
         var response = await categoriaServicio.Lista(Valor);
         if (response.Exitoso)
         {
@@ -136,23 +144,17 @@
         }
     }
 
-    private async Task RadioSeleccion(string categoria)
+    private async Task RadioSeleccion(ChangeEventArgs args)
     {
-        categoriaSeleccionada = categoria;
-        if (categoria == "Todos")
-        {
-            await ObtenerCatalogo(buscar);
-        }
-        else
-        {
-            await ObtenerCatalogo(buscar, categoriaSeleccionada);
-        }
+        categoriaSeleccionada = args.Value.ToString();
+        valorBusqueda = string.Empty;
+        await ObtenerCatalogo();
     }
 
     protected override async Task OnInitializedAsync()
     {
-        await ObtenerCatalogo();
         await ObtenerCategoria();
-    }
+        await ObtenerCatalogo();
+    } 
     
 }

@@ -19,6 +19,6 @@ namespace Ecommerce.DTO
         public string? FechaExpiracion { get; set; }
 
         [Required(ErrorMessage = "Ingrese CVV")]
-        public string? CVC { get; set; }
+        public string? CVV { get; set; }
     }
 }

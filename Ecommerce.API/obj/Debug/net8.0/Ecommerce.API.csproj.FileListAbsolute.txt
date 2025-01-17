@@ -658,3 +658,4 @@ C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.API
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.API\obj\Debug\net8.0\Ecommerce.API.genruntimeconfig.cache
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.API\obj\Debug\net8.0\ref\Ecommerce.API.dll
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.API\bin\Debug\net8.0\Blazored.Toast.dll
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.API\bin\Debug\net8.0\Blazored.Toast.dll

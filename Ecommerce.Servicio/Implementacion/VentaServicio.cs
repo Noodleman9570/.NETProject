@@ -31,7 +31,7 @@ namespace Ecommerce.Servicio.Implementacion
                 var dbModelo = _mapper.Map<Venta>(modelo);
                 var ventaGenerada = await _modeloRepositorio.Registrar(dbModelo);
                 if (ventaGenerada.IdVenta == 0)
-                    throw new TaskCanceledException("No se pudo crear el usuario");
+                    throw new TaskCanceledException("No se pudo generar la venta");
                 
                 return _mapper.Map<VentaDTO>(ventaGenerada);
             }

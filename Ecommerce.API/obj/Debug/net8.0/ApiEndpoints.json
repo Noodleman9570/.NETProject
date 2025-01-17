@@ -295,7 +295,7 @@
     "ContainingType": "Ecommerce.API.Controllers.VentaController",
     "Method": "Registrar",
     "RelativePath": "api/Venta/Registrar",
-    "HttpMethod": "PUT",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [

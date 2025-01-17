@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Ecommerce.Modelo;
 using Ecommerce.Repositorio.Contrato;
 using Ecommerce.Repositorio.DBContext;
+using Microsoft.EntityFrameworkCore;
 
 
 namespace Ecommerce.Repositorio.Implementacion
@@ -22,31 +23,38 @@ namespace Ecommerce.Repositorio.Implementacion
         {
             Venta ventaGenerada = new Venta();
 
-            using (var Transaction = _dbContext.Database.BeginTransaction())
+            var strategy = _dbContext.Database.CreateExecutionStrategy();
+            await strategy.ExecuteAsync(async () =>
             {
-                try
+                using (var Transaction = await _dbContext.Database.BeginTransactionAsync())
                 {
-                    foreach (DetalleVenta dv in modelo.DetalleVenta)
+                    try
                     {
-                        Producto producto_encontrado = _dbContext.Productos.Where(p => p.IdProducto == dv.IdProducto).First();
+                        foreach (DetalleVenta dv in modelo.DetalleVenta)
+                        {
+                            Producto producto_encontrado = _dbContext.Productos
+                                .Where(p => p.IdProducto == dv.IdProducto)
+                                .First();
 
-                        producto_encontrado.Cantidad = producto_encontrado.Cantidad - dv.Cantidad;
+                            producto_encontrado.Cantidad -= dv.Cantidad;
 
-                        _dbContext.Productos.Update(producto_encontrado);
+                            _dbContext.Productos.Update(producto_encontrado);
+                        }
+                        await _dbContext.SaveChangesAsync();
+                        await _dbContext.Venta.AddAsync(modelo);
+                        await _dbContext.SaveChangesAsync();
+
+                        ventaGenerada = modelo;
+                        await Transaction.CommitAsync();
                     }
-                    await _dbContext.SaveChangesAsync();
-                    await _dbContext.Venta.AddAsync(modelo);
-                    await _dbContext.SaveChangesAsync();
+                    catch (Exception)
+                    {
+                        await Transaction.RollbackAsync();
+                        throw;
+                    }
+                }
+            });
 
-                    ventaGenerada = modelo;
-                    Transaction.Commit();
-                }
-                catch (Exception)
-                {
-                    Transaction.Rollback();
-                    throw;
-                }
-            }
             return ventaGenerada;
         }
     }

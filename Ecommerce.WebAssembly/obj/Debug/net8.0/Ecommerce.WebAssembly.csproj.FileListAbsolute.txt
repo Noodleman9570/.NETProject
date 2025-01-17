@@ -1046,7 +1046,6 @@ C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debu
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Blazored.LocalStorage.wasm
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Blazored.Toast.wasm
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Blazorise.Bootstrap.wasm
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Blazorise.Icons.FontAwesome.wasm
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Blazorise.Licensing.wasm
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Blazorise.wasm
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\CurrieTechnologies.Razor.SweetAlert2.wasm
@@ -1265,7 +1264,6 @@ C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debu
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Transactions.wasm.gz
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Net.Quic.wasm.gz
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Net.Primitives.wasm.gz
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Blazorise.Icons.FontAwesome.wasm.gz
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.Primitives.wasm.gz
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.wasm.gz
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\mscorlib.wasm.gz
@@ -1477,7 +1475,6 @@ C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debu
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Blazored.Toast.dll
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Blazorise.dll
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Blazorise.Bootstrap.dll
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Blazorise.Icons.FontAwesome.dll
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Blazorise.Licensing.dll
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\CurrieTechnologies.Razor.SweetAlert2.dll
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
@@ -1687,7 +1684,6 @@ C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debu
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\Blazored.Toast.wasm
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\Blazorise.wasm
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\Blazorise.Bootstrap.wasm
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\Blazorise.Icons.FontAwesome.wasm
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\Blazorise.Licensing.wasm
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\CurrieTechnologies.Razor.SweetAlert2.wasm
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Authorization.wasm
@@ -1891,7 +1887,6 @@ C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debu
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\h0m9mehdxc-d8sffw2ugs.gz
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\h1ud72db42-dgqv40h4pv.gz
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\eujhryptih-xj7lc9k3ax.gz
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\2qbqo52us3-bqb2lxg4px.gz
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\7ud4d8h17w-0zj8qtr6tx.gz
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\mevipy1n3d-9ifchiq6sq.gz
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\7anu4dik27-n5pslkucsz.gz
@@ -2095,8 +2090,6 @@ C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debu
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\gvthvan8xc-tptq2av103.gz
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\qm16bvtqrj-lfu7j35m59.gz
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\ukqly6iq3h-oyz0vx2fzb.gz
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\5yvf90wyth-xef5iyl4pi.gz
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\vu5451gfyv-vi8lzh6esg.gz
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\staticwebassets.build.endpoints.json
@@ -2112,9 +2105,6 @@ C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debu
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\refint\Ecommerce.WebAssembly.dll
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\Ecommerce.WebAssembly.pdb
 C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\ref\Ecommerce.WebAssembly.dll
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\a1tvbzoq03-bmbo9wbofi.gz
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\xtoelshajf-jrd5jk6117.gz
-C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\kod9dxdfrc-dqttewk2vi.gz
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.WebAssembly\bin\Debug\net8.0\System.Xml.Linq.dll
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.WebAssembly\bin\Debug\net8.0\WindowsBase.dll
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.WebAssembly\bin\Debug\net8.0\dotnet.runtime.js
@@ -3196,3 +3186,18 @@ C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.Web
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\a1tvbzoq03-46dcuefq3n.gz
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\xtoelshajf-z49po6dhqu.gz
 C:\Users\BS00011124\Documents\C# curso\NETProject-main\.NETProject\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\kod9dxdfrc-nyyzxfdpp9.gz
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Blazorise.Icons.Bootstrap.wasm
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Blazorise.Icons.Bootstrap.wasm.gz
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Blazorise.Icons.Bootstrap.dll
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\Blazorise.Icons.Bootstrap.wasm
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\esr5iz3veg-7io34qq2em.gz
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\5yvf90wyth-6qvf06tjpt.gz
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\vu5451gfyv-4cq3axqs6n.gz
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.wasm
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.wasm.gz
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Authorization.wasm
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\m2n53hnvlw-t43uzy7nfx.gz
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\a1tvbzoq03-xttldm8rwo.gz
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\xtoelshajf-jy3j92o7e5.gz
+C:\Users\kevin\OneDrive\Documents\kevin\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\kod9dxdfrc-2lwsij58ls.gz

@@ -18,7 +18,7 @@ namespace Ecommerce.API.Controllers
             _ventaServicio = ventaServicio;
         }
 
-        [HttpPut("Registrar")]
+        [HttpPost("Registrar")]
         public async Task<IActionResult> Registrar([FromBody] VentaDTO modelo)
         {
             var response = new ResponseDTO<VentaDTO>();

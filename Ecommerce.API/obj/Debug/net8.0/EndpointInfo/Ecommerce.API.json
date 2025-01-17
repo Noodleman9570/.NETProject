@@ -182,7 +182,6 @@
             "in": "path",
             "required": true,
             "schema": {
-              "pattern": "^[A-Za-z]*$",
               "type": "string"
             }
           },
@@ -483,7 +482,7 @@
       }
     },
     "/api/Venta/Registrar": {
-      "put": {
+      "post": {
         "tags": [
           "Venta"
         ],
@@ -546,11 +545,13 @@
           },
           "cantidad": {
             "type": "integer",
-            "format": "int32"
+            "format": "int32",
+            "nullable": true
           },
           "total": {
             "type": "number",
-            "format": "double"
+            "format": "double",
+            "nullable": true
           }
         },
         "additionalProperties": false

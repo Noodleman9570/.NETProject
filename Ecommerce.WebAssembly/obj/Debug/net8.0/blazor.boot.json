@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Ecommerce.WebAssembly",
   "resources": {
-    "hash": "sha256-AITS0b8sWlrAkXOhfFU1B64m4E8+tFVDogFmE5MWHaI=",
+    "hash": "sha256-iinDpKTISCkp859QPGkv41nU144toCV+tA1fxXLXIY0=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -19,7 +19,7 @@
     "coreAssembly": {},
     "assembly": {
       "Blazored.LocalStorage.wasm": "sha256-cVAxLiUb8qzzOCkXKHPqqYyCUTBYWMeHuxWMBiceDLc=",
-      "Blazored.Toast.wasm": "sha256-tCNYnYuB69ZO7+n7obUv//+KkNP809fARvATEkvPug4=",
+      "Blazored.Toast.wasm": "sha256-rct5tMc2ZxFhr35Adawli4MHBEMAF/uJC2QW8RvdQ0M=",
       "Blazorise.wasm": "sha256-rStbDeHlPENCUBV/LeFfseHWQ/7Fc7z4CVuSN+pWkmM=",
       "Blazorise.Bootstrap.wasm": "sha256-fWnIAl+gyKlUk1oq4El2Sy4xyQ4WjVL+xux1nXdlbe4=",
       "Blazorise.Icons.Bootstrap.wasm": "sha256-MRVI60U4x2rzqMWESgIDTo6lgQZ9NuWG8nAAM/LHmNY=",
@@ -27,6 +27,7 @@
       "CurrieTechnologies.Razor.SweetAlert2.wasm": "sha256-f80S+SxoaF/Pyo5F4hUjNq0r4af5jQJrOeSSJDbUlNg=",
       "Microsoft.AspNetCore.Authorization.wasm": "sha256-W1OqRV83imd3SG/v4PAlCa5m/3RA9n5ysXT7G46jKKc=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-BbzyjRS+gcf0R8v27CSNdTK4vm9XoqKz4NEhk7LK+dY=",
+      "Microsoft.AspNetCore.Components.Authorization.wasm": "sha256-XWY0sFnoljNQhNqJNYUOIkOhz7f6eYIgyQh6g/FeC2w=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-uygu36HN/qUHLMopvhHgNiRvJHtoPqdkgtGxxdr1nY8=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-UU6I5F0N8ug+LyO1a+cyei0lfnhnCs+D82yuv75LZ00=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-dXe4uTusEtqngejTMWRpHZpLCVz9HGNmy3OIHFQvF04=",
@@ -216,12 +217,12 @@
       "mscorlib.wasm": "sha256-04e4k5XU8HWGB/dq/2+j84xzzGPflTs0IYWI0OxogVc=",
       "netstandard.wasm": "sha256-gnGZURPnoSmjXuYNCOJi5tt8qn2LRImWgue1Ru3/TDQ=",
       "System.Private.CoreLib.wasm": "sha256-6w3jYr0arcp8jnt4aeqh+AmqrLA6q7jl9rQYAwLzE0M=",
-      "Ecommerce.DTO.wasm": "sha256-UuROgibSr+kZh/kOqg+c3+WysN5yvFLeTHe0GPzFjI0=",
-      "Ecommerce.WebAssembly.wasm": "sha256-rBOC4aTcQRNDPThrdYRG3W4r/PHQ0An6I0ZYT6g5yy0="
+      "Ecommerce.DTO.wasm": "sha256-okmEsEn46P6sP75LEOyjOaPj1wc5jYCCoQPk5JpcwE4=",
+      "Ecommerce.WebAssembly.wasm": "sha256-u/B/c5jFQ/vVXz5yQsA3EEbI1uS+OIzzGX+mKBdpx+k="
     },
     "pdb": {
-      "Ecommerce.DTO.pdb": "sha256-3HxvTzWg24SNKKygR5lcso+9mSgEYL19fD2AIhwTv6c=",
-      "Ecommerce.WebAssembly.pdb": "sha256-fQV/UqVczmCIcrfqurpCDrkh4AiUxF/IZ8M7+8AHNwI="
+      "Ecommerce.DTO.pdb": "sha256-FLY6q7Mywm1bJ8qLvUiufM4+v3Q+3vVYR27GR1y10yQ=",
+      "Ecommerce.WebAssembly.pdb": "sha256-NTRXUFzbEsHoHJfQNsyJvwt2EgBD26n7N8qS22M1xd0="
     }
   },
   "cacheBootResources": true,

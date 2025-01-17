@@ -4,6 +4,8 @@
 @inject Blazored.Toast.Services.IToastService toastService
 @inject SweetAlertService Swal;
 
+@attribute [Authorize(Roles = "Administrador")]
+
 <div class="row mt-4">
 
     <div class="col-sm-6 mb-3">
@@ -80,7 +82,7 @@
 
 </div>
 @code {
-    private DashboardDTO? dashboardData = null;
+    private DashboardDTO? dashboardData = new DashboardDTO();
     private string buscar = "";
 
     private async Task ObtenerDashboard()
@@ -88,7 +90,7 @@
         var response = await dashboardServicio.Resumen();
         if (response.Exitoso)
         {
-            dashboardData = (DashboardDTO)response.Resultado;
+            dashboardData = (DashboardDTO)response.Resultado!;
         }
         else
         {
